@@ -2,6 +2,10 @@
  * @param {number} x
  * @return {number}
  */
+/**
+ * 
+ * x+x*10
+ */
 var reverse = function(x) {
     if(x>=0){
             
